@@ -1,0 +1,8 @@
+# Mortgage Calculator
+# Get loan_amount
+# Get annual_percentage_rate
+# Get loan_duration
+# monthly_payment = loan * (monthly_interest_rate / (1 - (1 + monthly_interest_rate)**(loan_duration_months)))
+# Find monthly_interest_rate
+# Find loan_duration_months
+# Print monthly_payment
